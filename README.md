@@ -1,2 +1,2 @@
 # demo
-for practice
+for practice of daily class.
